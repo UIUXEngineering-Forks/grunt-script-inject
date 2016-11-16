@@ -3,9 +3,9 @@
   "name": "grunt-script-inject",
   "main": "tasks/index.js",
   "description": "Automatically injects script tags into a page.",
-  "version": "0.0.3",
+  "version": "0.0.3-sp1",
   "repository": {
-    "url": "https://github.com/pedroaugustofr/grunt-script-inject"
+    "url": "https://github.com/UIUXEngineering-Forks/grunt-script-inject"
   },
   "dependencies": {},
   "peerDependencies": {
